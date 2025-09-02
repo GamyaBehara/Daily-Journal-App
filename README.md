@@ -14,7 +14,7 @@ It is a simple diary/journal app that allows users to write, save, and view entr
 
  <img width="427" height="886" alt="home" src="https://github.com/user-attachments/assets/2a95918f-73cf-4da0-806e-318dd35aa6a8" />
 
-- **Add Entry**:
+- **Add Entry**: Title input, Text Area for Writing and image selection
 
 <img width="427" height="886" alt="add entry" src="https://github.com/user-attachments/assets/dce4f188-a785-4708-ba96-a6cbfc1bdd41" />
 
