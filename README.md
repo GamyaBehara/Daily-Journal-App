@@ -8,15 +8,15 @@ It is a simple diary/journal app that allows users to write, save, and view entr
 ## ✨ Features
 - **Login Page**: Basic login with a predefined username and password.
 
- <img width="1194" height="2480" alt="login" src="https://github.com/user-attachments/assets/22a9b933-abc4-4609-8639-34ca4b12e1ff" />
+ <img width="427" height="886" alt="login" src="https://github.com/user-attachments/assets/22a9b933-abc4-4609-8639-34ca4b12e1ff" />
 
 - **Home Page**: Displays saved diary entries with titles, text, and an image.
 
- <img width="1194" height="2480" alt="home" src="https://github.com/user-attachments/assets/2a95918f-73cf-4da0-806e-318dd35aa6a8" />
+ <img width="427" height="886" alt="home" src="https://github.com/user-attachments/assets/2a95918f-73cf-4da0-806e-318dd35aa6a8" />
 
 - **Add Entry**:
 
-<img width="1194" height="2480" alt="add entry" src="https://github.com/user-attachments/assets/dce4f188-a785-4708-ba96-a6cbfc1bdd41" />
+<img width="427" height="886" alt="add entry" src="https://github.com/user-attachments/assets/dce4f188-a785-4708-ba96-a6cbfc1bdd41" />
 
 - **Save Functionality**: Saves the entry temporarily and returns to the home page.
 
