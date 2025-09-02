@@ -46,19 +46,19 @@ It is a simple diary/journal app that allows users to write, save, and view entr
 ## 🚀 How It Works
 1. Launch the app → Login with predefined credentials (`gamya / 123`).  
 2. Home Page → Shows saved entries.  
-3. Click **➕ Add Button** → Navigate to Add Entry Page.  
+3. Click Add your data here button → Navigate to Add Entry Page.  
 4. Enter title, text, and choose an image → Save entry.  
 5. Entry is added to the Home Page list.  
 6. Close the app → All data is erased (session-only storage).  
 
 ---
 
-## 📸 Screenshots (from project doc)
-- Login Page  
-- Home Page  
-- Add Entry Page  
-- Data displayed on Home Page  
-
+## ✨ Features of the Applcation Temporary Storage Only
+- **Predefined Image Gallery** using a custom spinner (image + text).  
+- **Automatic Entry Display** — saved entries instantly appear on the Home Page.  
+- **Session-Based Storage** with SharedPreferences (data erased when the app is closed).  
+- **Simple & Minimal UI** designed with XML layouts.  
+- **Basic Validation** — ensures title and text are not empty before saving.  
 ---
 
 ## 📌 Future Improvements
