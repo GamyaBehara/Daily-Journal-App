@@ -66,8 +66,3 @@ It is a simple diary/journal app that allows users to write, save, and view entr
 - Enable editing and deleting entries.  
 - Improve UI with Material Design components.  
 - Add cloud sync for backup.  
-
----
-
-👩‍💻 **Developed by:** B GamyaSri (CSE)  
-📚 Project: Mobile Application Development (Daily Journal App)
