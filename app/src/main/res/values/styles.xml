@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Project1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Default theme -->
+    </style>
+</resources>

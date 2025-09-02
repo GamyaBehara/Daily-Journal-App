@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/home_bg"> <!-- Set home_bg as background -->
+
+    <!-- Header -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your journal for life"
+        android:textSize="24sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Container for Entries -->
+    <LinearLayout
+        android:id="@+id/entryContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <!-- Example Entry 1 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#80FFFFFF"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <!-- Entry Title -->
+
+
+            <!-- Entry Date -->
+
+        </LinearLayout>
+
+        <!-- Example Entry 2 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#80FFFFFF"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <!-- Entry Title -->
+
+        </LinearLayout>
+
+        <!-- More entries will be dynamically added here -->
+    </LinearLayout>
+
+    <!-- Add New Entry Button -->
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="add your day's story here"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:background="#80FFFFFF"
+        android:padding="12dp"
+    android:layout_marginTop="16dp"
+    android:elevation="4dp" />
+
+</LinearLayout>
